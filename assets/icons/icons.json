@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/christos-prinianakis-icon.svg"
+ },
+ "source_md5": "6f3f706916c63ada83ff6d8901c95f2c",
+ "version": "7498a1a4",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "c36c3c240595f3242d213f7a4c886498"
+ ],
+ "made": "2026-11-11"
+}
